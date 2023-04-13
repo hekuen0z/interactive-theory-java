@@ -1,0 +1,5 @@
+The main idea of this project:
+	Create application that can help me to stude theory in Java.
+
+First of all, i will start from create entities of objects, that contains information.
+I will add a test construction later.
