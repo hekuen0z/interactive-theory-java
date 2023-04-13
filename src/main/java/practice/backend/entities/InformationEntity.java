@@ -1,2 +1,5 @@
-package practice.backend.entities;public class InformationEntity {
+package practice.backend.entities;
+
+public class InformationEntity extends BaseEntity {
+
 }
